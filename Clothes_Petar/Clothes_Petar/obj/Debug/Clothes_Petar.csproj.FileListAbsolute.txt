@@ -1,0 +1,16 @@
+D:\programirane zadachi\c#\Clothes_Petar\Clothes_Petar\bin\Debug\Clothes_Petar.exe.config
+D:\programirane zadachi\c#\Clothes_Petar\Clothes_Petar\bin\Debug\Clothes_Petar.exe
+D:\programirane zadachi\c#\Clothes_Petar\Clothes_Petar\bin\Debug\Clothes_Petar.pdb
+D:\programirane zadachi\c#\Clothes_Petar\Clothes_Petar\obj\Debug\Clothes_Petar.csproj.AssemblyReference.cache
+D:\programirane zadachi\c#\Clothes_Petar\Clothes_Petar\obj\Debug\Clothes_Petar.Properties.Resources.resources
+D:\programirane zadachi\c#\Clothes_Petar\Clothes_Petar\obj\Debug\Clothes_Petar.csproj.GenerateResource.cache
+D:\programirane zadachi\c#\Clothes_Petar\Clothes_Petar\obj\Debug\Clothes_Petar.csproj.CoreCompileInputs.cache
+D:\programirane zadachi\c#\Clothes_Petar\Clothes_Petar\obj\Debug\Clothes_Petar.exe
+D:\programirane zadachi\c#\Clothes_Petar\Clothes_Petar\obj\Debug\Clothes_Petar.pdb
+D:\programirane zadachi\c#\Clothes_Petar\Clothes_Petar\bin\Debug\EntityFramework.dll
+D:\programirane zadachi\c#\Clothes_Petar\Clothes_Petar\bin\Debug\EntityFramework.SqlServer.dll
+D:\programirane zadachi\c#\Clothes_Petar\Clothes_Petar\bin\Debug\EntityFramework.xml
+D:\programirane zadachi\c#\Clothes_Petar\Clothes_Petar\bin\Debug\EntityFramework.SqlServer.xml
+D:\programirane zadachi\c#\Clothes_Petar\Clothes_Petar\obj\Debug\Clothes_.2271E634.Up2Date
+D:\programirane zadachi\c#\Clothes_Petar\Clothes_Petar\obj\Debug\Clothes_Petar.Migrations.migraciq.resources
+D:\programirane zadachi\c#\Clothes_Petar\Clothes_Petar\obj\Debug\Clothes_Petar.Form1.resources
